@@ -1,6 +1,7 @@
 # SoundNote
-an iOS App that does audio-text transcription in English and Chinese
-utilizes API created by a Chinese tech company so more emphasis on Mandarin
+an iOS App that does audio-text transcription in English and Chinese,
+utilizes API created by a Chinese tech company so more emphasis on Mandarin,
+this app can be helpful in reducing typing, and speech practice, etc
 
 App LOGO
 ![Alt text](121511743585_.pic.jpg?raw=true "logo")
